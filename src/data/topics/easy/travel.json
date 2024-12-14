@@ -1,0 +1,20 @@
+{
+    "category": "travel",
+    "topics": [
+      {
+        "id": "tre1",
+        "question": "What's your favorite place to visit?",
+        "tags": ["destinations", "preferences"]
+      },
+      {
+        "id": "tre2",
+        "question": "Do you prefer beach or mountain vacations?",
+        "tags": ["preferences", "nature"]
+      },
+      {
+        "id": "tre3",
+        "question": "What's your ideal vacation length?",
+        "tags": ["planning", "preferences"]
+      }
+    ]
+}

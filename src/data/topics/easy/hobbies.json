@@ -1,0 +1,26 @@
+{
+  "category": "hobbies",
+  "topics": [
+    {
+      "id": "he1",
+      "question": "What do you like to do in your free time?",
+      "tags": ["leisure", "personal"]
+    },
+    {
+      "id": "he2",
+      "question": "Have you picked up any new hobbies lately?",
+      "tags": ["interests", "current"]
+    },
+    {
+      "id": "he3",
+      "question": "What's your favorite way to relax after a long day?",
+      "difficulty": "easy",
+      "tags": ["leisure", "relaxation"]
+    },
+    {
+      "id": "he4",
+      "question": "Do you prefer indoor or outdoor activities?",
+      "tags": ["preferences", "activities"]
+    }
+  ]
+}

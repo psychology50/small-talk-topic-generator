@@ -1,0 +1,20 @@
+{
+    "category": "tech",
+    "topics": [
+        {
+            "id": "tee1",
+            "question": "What's your favorite tech gadget?",
+            "tags": ["devices", "preferences"]
+        },
+        {
+            "id": "tee2",
+            "question": "How often do you update your phone?",
+            "tags": ["habits", "devices"]
+        },
+        {
+            "id": "tee3",
+            "question": "What apps do you use daily?",
+            "tags": ["apps", "daily-life"]
+        }
+    ]
+}

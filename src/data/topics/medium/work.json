@@ -1,0 +1,25 @@
+{
+    "category": "work",
+    "topics": [
+      {
+        "id": "wm1",
+        "question": "How do you handle work-related stress?",
+        "tags": ["wellness", "challenges", "work-life"]
+      },
+      {
+        "id": "wm2",
+        "question": "What's the most challenging project you've worked on?",
+        "tags": ["projects", "challenges", "experience"]
+      },
+      {
+        "id": "wm3",
+        "question": "How do you maintain work-life balance?",
+        "tags": ["work-life", "wellness", "lifestyle"]
+      },
+      {
+        "id": "wm4",
+        "question": "What's the best career advice you've ever received?",
+        "tags": ["career", "advice"]
+      }
+    ]
+  }

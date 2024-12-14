@@ -1,0 +1,20 @@
+{
+    "category": "lifestyle",
+    "topics": [
+        {
+          "id": "lh1",
+          "question": "How has your lifestyle evolved with age?",
+          "tags": ["change", "growth"]
+        },
+        {
+          "id": "lh2",
+          "question": "What impact does your environment have on your lifestyle?",
+          "tags": ["environment", "impact"]
+        },
+        {
+          "id": "lh3",
+          "question": "How do your values influence your lifestyle choices?",
+          "tags": ["values", "choices"]
+        }
+      ]
+}

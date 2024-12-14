@@ -1,0 +1,20 @@
+{
+    "category": "entertainment",
+    "topics": [
+        {
+          "id": "em1",
+          "question": "How has streaming changed your entertainment habits?",
+          "tags": ["technology", "habits"]
+        },
+        {
+          "id": "em2",
+          "question": "What's the best live performance you've seen?",
+          "tags": ["experiences", "live-events"]
+        },
+        {
+          "id": "em3",
+          "question": "How do you discover new content to watch or listen to?",
+          "tags": ["discovery", "media"]
+        }
+      ]
+}

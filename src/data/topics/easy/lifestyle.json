@@ -1,0 +1,20 @@
+{
+    "category": "lifestyle",
+    "topics": [
+    {
+      "id": "le1",
+      "question": "What's your typical daily routine?",
+      "tags": ["daily-life", "habits"]
+    },
+    {
+      "id": "le2",
+      "question": "What's your favorite time of day?",
+      "tags": ["preferences", "daily-life"]
+    },
+    {
+      "id": "le3",
+      "question": "How do you prefer to exercise?",
+      "tags": ["health", "fitness"]
+    }
+  ]
+}

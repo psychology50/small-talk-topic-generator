@@ -1,0 +1,20 @@
+{
+    "category": "tech",
+    "topics": [
+        {
+            "id": "teh1",
+            "question": "How do you think AI will impact society?",
+            "tags": ["ai", "future", "society"]
+        },
+        {
+            "id": "teh2",
+            "question": "What ethical concerns do you have about technology?",
+            "tags": ["ethics", "society"]
+        },
+        {
+            "id": "teh3",
+            "question": "How do you balance digital and real-world connections?",
+            "tags": ["relationships", "balance"]
+        }
+    ]
+}

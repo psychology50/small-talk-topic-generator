@@ -1,0 +1,20 @@
+{
+    "category": "travel",
+    "topics": [
+      {
+        "id": "trh1",
+        "question": "How has traveling changed your worldview?",
+        "tags": ["perspective", "personal-growth"]
+      },
+      {
+        "id": "trh2",
+        "question": "What cultural differences have impacted you the most?",
+        "tags": ["culture", "impact"]
+      },
+      {
+        "id": "trh3",
+        "question": "How do you think travel will evolve in the future?",
+        "tags": ["future", "society"]
+      }
+    ]
+}

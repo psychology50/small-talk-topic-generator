@@ -1,0 +1,20 @@
+{
+    "category": "food",
+    "topics": [
+        {
+            "id": "fh1",
+            "question": "How does food connect to your cultural identity?",
+            "tags": ["culture", "identity"]
+        },
+        {
+            "id": "fh2",
+            "question": "What role does food play in your relationships?",
+            "tags": ["relationships", "social"]
+        },
+        {
+            "id": "fh3",
+            "question": "How do you think food habits will change in the future?",
+            "tags": ["future", "society"]
+        }
+    ]
+}

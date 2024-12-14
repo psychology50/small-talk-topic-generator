@@ -1,0 +1,20 @@
+{
+    "category": "food",
+    "topics": [
+        {
+            "id": "fm1",
+            "question": "What's the most interesting dish you've ever tried?",
+            "tags": ["experiences", "cuisine"]
+        },
+        {
+            "id": "fm2",
+            "question": "How has your taste in food changed over time?",
+            "tags": ["preferences", "change"]
+        },
+        {
+            "id": "fm3",
+            "question": "What's your favorite cooking technique?",
+            "tags": ["cooking", "skills"]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "category": "travel",
+    "topics": [
+      {
+        "id": "trm1",
+        "question": "What's the most memorable trip you've taken?",
+        "tags": ["experiences", "memories"]
+      },
+      {
+        "id": "trm2",
+        "question": "How do you plan your travels?",
+        "tags": ["planning", "organization"]
+      },
+      {
+        "id": "trm3",
+        "question": "What's your approach to trying local cuisine when traveling?",
+        "tags": ["food", "culture"]
+      }
+    ]
+  }

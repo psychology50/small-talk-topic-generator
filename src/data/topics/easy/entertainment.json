@@ -1,0 +1,20 @@
+{
+    "category": "entertainment",
+    "topics": [
+        {
+          "id": "ee1",
+          "question": "What kind of movies do you enjoy?",
+          "tags": ["movies", "preferences"]
+        },
+        {
+          "id": "ee2",
+          "question": "What's your favorite way to spend weekends?",
+          "tags": ["leisure", "lifestyle"]
+        },
+        {
+          "id": "ee3",
+          "question": "Do you prefer watching TV shows or movies?",
+          "tags": ["preferences", "media"]
+        }
+      ]
+}

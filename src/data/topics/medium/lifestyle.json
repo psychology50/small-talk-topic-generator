@@ -1,0 +1,20 @@
+{
+    "category": "lifestyle",
+    "topics": [
+        {
+          "id": "lm1",
+          "question": "How do you maintain a healthy work-life balance?",
+          "tags": ["balance", "well-being"]
+        },
+        {
+          "id": "lm2",
+          "question": "What healthy habits have you developed?",
+          "tags": ["health", "habits"]
+        },
+        {
+          "id": "lm3",
+          "question": "How do you handle stress?",
+          "tags": ["wellness", "mental-health"]
+        }
+      ]
+}

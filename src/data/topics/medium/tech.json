@@ -1,0 +1,20 @@
+{
+    "category": "tech",
+    "topics": [
+        {
+            "id": "tem1",
+            "question": "How has technology changed your work life?",
+            "tags": ["work", "impact"]
+        },
+        {
+            "id": "tem2",
+            "question": "What's your opinion on social media?",
+            "tags": ["social-media", "society"]
+        },
+        {
+            "id": "tem3",
+            "question": "How do you manage screen time?",
+            "tags": ["lifestyle", "health"]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "category": "entertainment",
+    "topics": [
+        {
+          "id": "eh1",
+          "question": "How does entertainment influence society?",
+          "tags": ["society", "impact"]
+        },
+        {
+          "id": "eh2",
+          "question": "What role should entertainment play in education?",
+          "tags": ["education", "society"]
+        },
+        {
+          "id": "eh3",
+          "question": "How do you think entertainment will evolve in the future?",
+          "tags": ["future", "technology"]
+        }
+      ]
+}

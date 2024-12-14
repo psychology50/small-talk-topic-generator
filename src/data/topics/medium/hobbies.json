@@ -1,0 +1,30 @@
+{
+  "category": "hobbies",
+  "topics": [
+    {
+      "id": "hm1",
+      "question": "Do you play any sports or instruments?",
+      "tags": ["sports", "music", "skills"]
+    },
+    {
+      "id": "hm2",
+      "question": "What hobby would you like to start if you had more time?",
+      "tags": ["aspirations", "interests"]
+    },
+    {
+      "id": "hm3",
+      "question": "How do you make time for your hobbies?",
+      "tags": ["time-management", "lifestyle"]
+    },
+    {
+      "id": "hm4",
+      "question": "What skills have you developed through your hobbies?",
+      "tags": ["skills", "development"]
+    },
+    {
+      "id": "hm5",
+      "question": "Do you prefer solo hobbies or group activities?",
+      "tags": ["social", "preferences"]
+    }
+  ]
+}

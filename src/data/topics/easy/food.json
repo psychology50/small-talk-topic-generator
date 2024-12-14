@@ -1,0 +1,20 @@
+{
+    "category": "food",
+    "topics": [
+    {
+      "id": "fe1",
+      "question": "What's your favorite type of food?",
+      "tags": ["preferences", "cuisine"]
+    },
+    {
+      "id": "fe2",
+      "question": "Do you prefer cooking at home or eating out?",
+      "tags": ["preferences", "lifestyle"]
+    },
+    {
+      "id": "fe3",
+      "question": "What's your go-to comfort food?",
+      "tags": ["comfort-food", "personal"]
+    }
+  ]
+}

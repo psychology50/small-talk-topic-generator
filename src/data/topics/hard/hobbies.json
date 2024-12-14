@@ -1,0 +1,20 @@
+{
+  "category": "hobbies",
+  "topics": [
+    {
+      "id": "hh1",
+      "question": "How have your hobbies shaped your personality?",
+      "tags": ["personal-growth", "reflection"]
+    },
+    {
+      "id": "hh2",
+      "question": "What challenges have you overcome through your hobbies?",
+      "tags": ["challenges", "growth"]
+    },
+    {
+      "id": "hh3",
+      "question": "How do your hobbies reflect your values?",
+      "tags": ["values", "personal"]
+    }
+  ]
+}

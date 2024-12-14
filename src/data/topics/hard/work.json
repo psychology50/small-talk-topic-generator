@@ -1,0 +1,20 @@
+{
+    "category": "work",
+    "topics": [
+    {
+      "id": "wh1",
+      "question": "What's your long-term career development plan?",
+      "tags": ["career", "goals", "development"]
+    },
+    {
+      "id": "wh2",
+      "question": "How do you handle conflicts with colleagues?",
+      "tags": ["interpersonal", "challenges", "communication"]
+    },
+    {
+      "id": "wh3",
+      "question": "What's your leadership philosophy?",
+      "tags": ["leadership", "philosophy", "management"]
+    }
+  ]
+  }

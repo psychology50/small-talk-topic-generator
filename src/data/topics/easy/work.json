@@ -1,0 +1,25 @@
+{
+    "category": "work",
+    "topics": [
+      {
+        "id": "we1",
+        "question": "What's the most interesting project you've worked on recently?",
+        "tags": ["career", "projects"]
+      },
+      {
+        "id": "we2",
+        "question": "What's your dream job?",
+        "tags": ["career", "aspirations"]
+      },
+      {
+        "id": "we3",
+        "question": "What do you like most about your current job?",
+        "tags": ["career", "satisfaction"]
+      },
+      {
+        "id": "we4",
+        "question": "Do you prefer working from home or in an office?",
+        "tags": ["work-environment", "preferences"]
+      }
+    ]
+  }
