@@ -1,20 +1,101 @@
 {
-    "category": "food",
-    "topics": [
-        {
-            "id": "fh1",
-            "question": "How does food connect to your cultural identity?",
-            "tags": ["culture", "identity"]
-        },
-        {
-            "id": "fh2",
-            "question": "What role does food play in your relationships?",
-            "tags": ["relationships", "social"]
-        },
-        {
-            "id": "fh3",
-            "question": "How do you think food habits will change in the future?",
-            "tags": ["future", "society"]
-        }
-    ]
+  "category": "food",
+  "topics": [
+    {
+      "id": "fh1",
+      "question": "How does food connect to your cultural identity?",
+      "tags": [
+        "culture",
+        "identity"
+      ]
+    },
+    {
+      "id": "fh2",
+      "question": "How can food be used to teach about culture?",
+      "tags": [
+        "relationships",
+        "social"
+      ]
+    },
+    {
+      "id": "fh3",
+      "question": "How do you think food habits will change in the future?",
+      "tags": [
+        "future",
+        "society"
+      ]
+    },
+    {
+      "id": "fh4",
+      "question": "What's your food philosophy?",
+      "tags": [
+        "philosophy",
+        "beliefs"
+      ]
+    },
+    {
+      "id": "fh5",
+      "question": "What\u2019s a food-related tradition that\u2019s meaningful to you?",
+      "tags": [
+        "society",
+        "impact"
+      ]
+    },
+    {
+      "id": "fh6",
+      "question": "What ethical considerations guide your food choices?",
+      "tags": [
+        "ethics",
+        "choices"
+      ]
+    },
+    {
+      "id": "fh7",
+      "question": "How does food connect different cultures?",
+      "tags": [
+        "culture",
+        "connection"
+      ]
+    },
+    {
+      "id": "fh8",
+      "question": "What impact does food have on community?",
+      "tags": [
+        "community",
+        "impact"
+      ]
+    },
+    {
+      "id": "fh9",
+      "question": "How do you balance tradition and innovation in food?",
+      "tags": [
+        "tradition",
+        "innovation"
+      ]
+    },
+    {
+      "id": "fh10",
+      "question": "What role should food play in education?",
+      "tags": [
+        "education",
+        "society"
+      ]
+    },
+    {
+      "id": "fh11",
+      "question": "What\u2019s a food experience that changed the way you think about cooking or eating?",
+      "tags": [
+        "tradition",
+        "innovation"
+      ]
+    },
+    {
+      "id": "fh12",
+      "question": "How do you think globalization has impacted local cuisines?",
+      "tags": [
+        "education",
+        "society"
+      ]
+    }
+  ]
 }

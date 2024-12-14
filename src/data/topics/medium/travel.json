@@ -1,20 +1,181 @@
 {
-    "category": "travel",
-    "topics": [
-      {
-        "id": "trm1",
-        "question": "What's the most memorable trip you've taken?",
-        "tags": ["experiences", "memories"]
-      },
-      {
-        "id": "trm2",
-        "question": "How do you plan your travels?",
-        "tags": ["planning", "organization"]
-      },
-      {
-        "id": "trm3",
-        "question": "What's your approach to trying local cuisine when traveling?",
-        "tags": ["food", "culture"]
-      }
-    ]
-  }
+  "category": "travel",
+  "topics": [
+    {
+      "id": "tm1",
+      "question": "What's the most interesting place you've visited?",
+      "tags": [
+        "experiences",
+        "memories"
+      ]
+    },
+    {
+      "id": "tm2",
+      "question": "How do you plan your trips?",
+      "tags": [
+        "planning",
+        "organization"
+      ]
+    },
+    {
+      "id": "tm3",
+      "question": "What's your most memorable travel experience?",
+      "tags": [
+        "memories",
+        "experiences"
+      ]
+    },
+    {
+      "id": "tm4",
+      "question": "How do you handle language barriers while traveling?",
+      "tags": [
+        "challenges",
+        "communication"
+      ]
+    },
+    {
+      "id": "tm5",
+      "question": "What's your approach to travel budgeting?",
+      "tags": [
+        "planning",
+        "finance"
+      ]
+    },
+    {
+      "id": "tm6",
+      "question": "What do you look for in a travel destination?",
+      "tags": [
+        "preferences",
+        "decision-making"
+      ]
+    },
+    {
+      "id": "tm7",
+      "question": "How do you deal with travel stress?",
+      "tags": [
+        "stress-management",
+        "challenges"
+      ]
+    },
+    {
+      "id": "tm8",
+      "question": "What\u2019s the funniest or most unexpected thing that happened during your travels?",
+      "tags": [
+        "stories",
+        "experiences"
+      ]
+    },
+    {
+      "id": "tm9",
+      "question": "How do you maintain comfort while traveling?",
+      "tags": [
+        "comfort",
+        "preferences"
+      ]
+    },
+    {
+      "id": "tm10",
+      "question": "What's your favorite travel memory?",
+      "tags": [
+        "memories",
+        "experiences"
+      ]
+    },
+    {
+      "id": "tm11",
+      "question": "How do you feel about sustainable tourism?",
+      "tags": [
+        "sustainability",
+        "responsibility"
+      ]
+    },
+    {
+      "id": "tm12",
+      "question": "What's your experience with travel hacks?",
+      "tags": [
+        "tips",
+        "planning"
+      ]
+    },
+    {
+      "id": "tm13",
+      "question": "How do you balance travel and work?",
+      "tags": [
+        "work-life",
+        "balance"
+      ]
+    },
+    {
+      "id": "tm14",
+      "question": "What's your approach to travel budgeting?",
+      "tags": [
+        "finance",
+        "planning"
+      ]
+    },
+    {
+      "id": "tm15",
+      "question": "Do you like sharing your travel experiences online or keeping them private?",
+      "tags": [
+        "social-media",
+        "habits"
+      ]
+    },
+    {
+      "id": "tm16",
+      "question": "What's your take on influencer tourism?",
+      "tags": [
+        "social-media",
+        "trends"
+      ]
+    },
+    {
+      "id": "tm17",
+      "question": "How do you research destinations?",
+      "tags": [
+        "planning",
+        "research"
+      ]
+    },
+    {
+      "id": "tm18",
+      "question": "What's your experience with last-minute trips?",
+      "tags": [
+        "spontaneity",
+        "planning"
+      ]
+    },
+    {
+      "id": "tm19",
+      "question": "How do you pack for trips?",
+      "tags": [
+        "preparation",
+        "tips"
+      ]
+    },
+    {
+      "id": "tm20",
+      "question": "What's your view on slow travel?",
+      "tags": [
+        "style",
+        "trends"
+      ]
+    },
+    {
+      "id": "tm21",
+      "question": "What\u2019s the best meal you\u2019ve ever had while traveling?",
+      "tags": [
+        "preparation",
+        "tips"
+      ]
+    },
+    {
+      "id": "tm22",
+      "question": "What\u2019s your go-to method for finding hidden gems at a destination?",
+      "tags": [
+        "style",
+        "trends"
+      ]
+    }
+  ]
+}

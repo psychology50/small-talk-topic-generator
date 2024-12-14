@@ -1,20 +1,109 @@
 {
-    "category": "entertainment",
-    "topics": [
-        {
-          "id": "em1",
-          "question": "How has streaming changed your entertainment habits?",
-          "tags": ["technology", "habits"]
-        },
-        {
-          "id": "em2",
-          "question": "What's the best live performance you've seen?",
-          "tags": ["experiences", "live-events"]
-        },
-        {
-          "id": "em3",
-          "question": "How do you discover new content to watch or listen to?",
-          "tags": ["discovery", "media"]
-        }
+  "category": "entertainment",
+  "topics": [
+    {
+      "id": "em1",
+      "question": "What\u2019s your opinion on user-generated content like reviews or reaction videos?",
+      "tags": [
+        "content",
+        "trends"
       ]
+    },
+    {
+      "id": "em2",
+      "question": "What do you think about streaming platforms vs traditional TV?",
+      "tags": [
+        "streaming",
+        "media"
+      ]
+    },
+    {
+      "id": "em3",
+      "question": "How has TikTok changed entertainment?",
+      "tags": [
+        "social-media",
+        "impact"
+      ]
+    },
+    {
+      "id": "em4",
+      "question": "What do you think about YouTube shorts and reels?",
+      "tags": [
+        "short-form",
+        "content"
+      ]
+    },
+    {
+      "id": "em5",
+      "question": "How do you discover new music these days?",
+      "tags": [
+        "music",
+        "discovery"
+      ]
+    },
+    {
+      "id": "em6",
+      "question": "What's your take on subscription services?",
+      "tags": [
+        "services",
+        "costs"
+      ]
+    },
+    {
+      "id": "em7",
+      "question": "Do you think binge-watching changes how we experience stories?",
+      "tags": [
+        "habits",
+        "viewing"
+      ]
+    },
+    {
+      "id": "em8",
+      "question": "What makes you subscribe to a content creator?",
+      "tags": [
+        "content",
+        "engagement"
+      ]
+    },
+    {
+      "id": "em9",
+      "question": "How important are reviews in choosing what to watch?",
+      "tags": [
+        "decision-making",
+        "reviews"
+      ]
+    },
+    {
+      "id": "em10",
+      "question": "What's your favorite way to share recommendations?",
+      "tags": [
+        "sharing",
+        "social"
+      ]
+    },
+    {
+      "id": "em11",
+      "question": "How do you balance between watching new content and rewatching old favorites?",
+      "tags": [
+        "content",
+        "engagement"
+      ]
+    },
+    {
+      "id": "em12",
+      "question": "Do you think streaming services are overwhelming with too many options?",
+      "tags": [
+        "decision-making",
+        "reviews"
+      ]
+    },
+    {
+      "id": "em13",
+      "question": "What role does nostalgia play in your entertainment choices?",
+      "tags": [
+        "sharing",
+        "social"
+      ]
+    }
+  ]
 }

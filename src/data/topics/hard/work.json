@@ -1,20 +1,85 @@
 {
-    "category": "work",
-    "topics": [
+  "category": "work",
+  "topics": [
     {
       "id": "wh1",
-      "question": "What's your long-term career development plan?",
-      "tags": ["career", "goals", "development"]
+      "question": "How has your career path evolved over time?",
+      "tags": [
+        "career-path",
+        "growth"
+      ]
     },
     {
       "id": "wh2",
-      "question": "How do you handle conflicts with colleagues?",
-      "tags": ["interpersonal", "challenges", "communication"]
+      "question": "If you could start a passion project, what would it be?",
+      "tags": [
+        "leadership",
+        "philosophy"
+      ]
     },
     {
       "id": "wh3",
-      "question": "What's your leadership philosophy?",
-      "tags": ["leadership", "philosophy", "management"]
+      "question": "How do you drive innovation in your role?",
+      "tags": [
+        "innovation",
+        "leadership"
+      ]
+    },
+    {
+      "id": "wh4",
+      "question": "What's your approach to mentoring others?",
+      "tags": [
+        "mentoring",
+        "leadership"
+      ]
+    },
+    {
+      "id": "wh5",
+      "question": "How do you handle ethical dilemmas at work?",
+      "tags": [
+        "ethics",
+        "decision-making"
+      ]
+    },
+    {
+      "id": "wh6",
+      "question": "What's your vision for your industry's future?",
+      "tags": [
+        "vision",
+        "future"
+      ]
+    },
+    {
+      "id": "wh7",
+      "question": "How do you measure success in your career?",
+      "tags": [
+        "success",
+        "goals"
+      ]
+    },
+    {
+      "id": "wh8",
+      "question": "What's your strategy for staying relevant in your field?",
+      "tags": [
+        "strategy",
+        "career"
+      ]
+    },
+    {
+      "id": "wh9",
+      "question": "How do you approach organizational change?",
+      "tags": [
+        "change-management",
+        "leadership"
+      ]
+    },
+    {
+      "id": "wh10",
+      "question": "What\u2019s the most fun idea you\u2019ve ever had at work?",
+      "tags": [
+        "legacy",
+        "career-goals"
+      ]
     }
   ]
-  }
+}

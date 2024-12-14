@@ -1,25 +1,141 @@
 {
-    "category": "work",
-    "topics": [
-      {
-        "id": "we1",
-        "question": "What's the most interesting project you've worked on recently?",
-        "tags": ["career", "projects"]
-      },
-      {
-        "id": "we2",
-        "question": "What's your dream job?",
-        "tags": ["career", "aspirations"]
-      },
-      {
-        "id": "we3",
-        "question": "What do you like most about your current job?",
-        "tags": ["career", "satisfaction"]
-      },
-      {
-        "id": "we4",
-        "question": "Do you prefer working from home or in an office?",
-        "tags": ["work-environment", "preferences"]
-      }
-    ]
-  }
+  "category": "work",
+  "topics": [
+    {
+      "id": "we1",
+      "question": "What's your typical work day like?",
+      "tags": [
+        "daily-life",
+        "routine"
+      ]
+    },
+    {
+      "id": "we2",
+      "question": "Do you prefer working from home or in an office?",
+      "tags": [
+        "preferences",
+        "work-environment"
+      ]
+    },
+    {
+      "id": "we3",
+      "question": "What\u2019s your favorite spot to work from (home, cafe, etc.)?",
+      "tags": [
+        "daily-life",
+        "routine"
+      ]
+    },
+    {
+      "id": "we4",
+      "question": "What's your favorite part of your job?",
+      "tags": [
+        "preferences",
+        "job-satisfaction"
+      ]
+    },
+    {
+      "id": "we5",
+      "question": "Do you have a dedicated workspace?",
+      "tags": [
+        "work-environment",
+        "setup"
+      ]
+    },
+    {
+      "id": "we6",
+      "question": "Do you prefer working alone or in a team?",
+      "tags": [
+        "preferences",
+        "collaboration"
+      ]
+    },
+    {
+      "id": "we7",
+      "question": "What tools do you use most at work?",
+      "tags": [
+        "tools",
+        "daily-life"
+      ]
+    },
+    {
+      "id": "we8",
+      "question": "Do you take regular breaks during work?",
+      "tags": [
+        "habits",
+        "routine"
+      ]
+    },
+    {
+      "id": "we9",
+      "question": "What's your favorite time of day to work?",
+      "tags": [
+        "preferences",
+        "productivity"
+      ]
+    },
+    {
+      "id": "we10",
+      "question": "What's your preferred work setup - remote, hybrid, or office?",
+      "tags": [
+        "work-style",
+        "preferences"
+      ]
+    },
+    {
+      "id": "we11",
+      "question": "What productivity apps do you use?",
+      "tags": [
+        "tools",
+        "productivity"
+      ]
+    },
+    {
+      "id": "we12",
+      "question": "How's your home office setup?",
+      "tags": [
+        "workspace",
+        "remote-work"
+      ]
+    },
+    {
+      "id": "we13",
+      "question": "Do you listen to music while working?",
+      "tags": [
+        "habits",
+        "productivity"
+      ]
+    },
+    {
+      "id": "we14",
+      "question": "What's your favorite collaboration tool?",
+      "tags": [
+        "tools",
+        "teamwork"
+      ]
+    },
+    {
+      "id": "we15",
+      "question": "How do you handle work notifications?",
+      "tags": [
+        "communication",
+        "boundaries"
+      ]
+    },
+    {
+      "id": "we16",
+      "question": "Are you interested in startups?",
+      "tags": [
+        "career",
+        "startups"
+      ]
+    },
+    {
+      "id": "we17",
+      "question": "What's your ideal work schedule?",
+      "tags": [
+        "schedule",
+        "preferences"
+      ]
+    }
+  ]
+}

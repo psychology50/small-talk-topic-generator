@@ -1,25 +1,165 @@
 {
-    "category": "work",
-    "topics": [
-      {
-        "id": "wm1",
-        "question": "How do you handle work-related stress?",
-        "tags": ["wellness", "challenges", "work-life"]
-      },
-      {
-        "id": "wm2",
-        "question": "What's the most challenging project you've worked on?",
-        "tags": ["projects", "challenges", "experience"]
-      },
-      {
-        "id": "wm3",
-        "question": "How do you maintain work-life balance?",
-        "tags": ["work-life", "wellness", "lifestyle"]
-      },
-      {
-        "id": "wm4",
-        "question": "What's the best career advice you've ever received?",
-        "tags": ["career", "advice"]
-      }
-    ]
-  }
+  "category": "work",
+  "topics": [
+    {
+      "id": "wm1",
+      "question": "How do you handle work-related stress?",
+      "tags": [
+        "stress-management",
+        "wellness"
+      ]
+    },
+    {
+      "id": "wm2",
+      "question": "What's the most interesting project you've worked on?",
+      "tags": [
+        "projects",
+        "experiences"
+      ]
+    },
+    {
+      "id": "wm3",
+      "question": "How do you maintain work-life balance?",
+      "tags": [
+        "balance",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "wm4",
+      "question": "What skills are most valuable in your field?",
+      "tags": [
+        "skills",
+        "career"
+      ]
+    },
+    {
+      "id": "wm5",
+      "question": "Have you noticed any trends in your field or hobby lately?",
+      "tags": [
+        "industry",
+        "changes"
+      ]
+    },
+    {
+      "id": "wm6",
+      "question": "What's your approach to time management?",
+      "tags": [
+        "time-management",
+        "productivity"
+      ]
+    },
+    {
+      "id": "wm7",
+      "question": "How do you handle difficult colleagues?",
+      "tags": [
+        "interpersonal",
+        "challenges"
+      ]
+    },
+    {
+      "id": "wm8",
+      "question": "What's your experience with remote work?",
+      "tags": [
+        "remote-work",
+        "adaptation"
+      ]
+    },
+    {
+      "id": "wm9",
+      "question": "How do you stay organized at work?",
+      "tags": [
+        "organization",
+        "productivity"
+      ]
+    },
+    {
+      "id": "wm10",
+      "question": "What motivates you in your work?",
+      "tags": [
+        "motivation",
+        "career"
+      ]
+    },
+    {
+      "id": "wm11",
+      "question": "How do you feel about the four-day work week?",
+      "tags": [
+        "work-life",
+        "trends"
+      ]
+    },
+    {
+      "id": "wm12",
+      "question": "If you could pick any job for a day, what would it be?",
+      "tags": [
+        "freelance",
+        "career"
+      ]
+    },
+    {
+      "id": "wm13",
+      "question": "How do you network in the digital age?",
+      "tags": [
+        "networking",
+        "career"
+      ]
+    },
+    {
+      "id": "wm14",
+      "question": "What's your take on workplace culture?",
+      "tags": [
+        "culture",
+        "workplace"
+      ]
+    },
+    {
+      "id": "wm15",
+      "question": "How do you stay productive while working remotely?",
+      "tags": [
+        "productivity",
+        "remote-work"
+      ]
+    },
+    {
+      "id": "wm16",
+      "question": "What's your experience with digital nomad life?",
+      "tags": [
+        "lifestyle",
+        "remote-work"
+      ]
+    },
+    {
+      "id": "wm17",
+      "question": "How do you handle zoom fatigue?",
+      "tags": [
+        "remote-work",
+        "wellness"
+      ]
+    },
+    {
+      "id": "wm18",
+      "question": "What's your approach to personal branding?",
+      "tags": [
+        "branding",
+        "career"
+      ]
+    },
+    {
+      "id": "wm19",
+      "question": "How do you upskill yourself?",
+      "tags": [
+        "learning",
+        "development"
+      ]
+    },
+    {
+      "id": "wm20",
+      "question": "What's your view on workplace flexibility?",
+      "tags": [
+        "work-style",
+        "preferences"
+      ]
+    }
+  ]
+}

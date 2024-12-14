@@ -4,23 +4,98 @@
     {
       "id": "he1",
       "question": "What do you like to do in your free time?",
-      "tags": ["leisure", "personal"]
+      "tags": [
+        "leisure",
+        "interests"
+      ]
     },
     {
       "id": "he2",
-      "question": "Have you picked up any new hobbies lately?",
-      "tags": ["interests", "current"]
+      "question": "Do you have any regular hobbies?",
+      "tags": [
+        "activities",
+        "routine"
+      ]
     },
     {
       "id": "he3",
-      "question": "What's your favorite way to relax after a long day?",
-      "difficulty": "easy",
-      "tags": ["leisure", "relaxation"]
+      "question": "Do you prefer indoor or outdoor activities?",
+      "tags": [
+        "preferences",
+        "activities"
+      ]
     },
     {
       "id": "he4",
-      "question": "Do you prefer indoor or outdoor activities?",
-      "tags": ["preferences", "activities"]
+      "question": "What\u2019s a hobby you wish you had more time for?",
+      "tags": [
+        "frequency",
+        "routine"
+      ]
+    },
+    {
+      "id": "he5",
+      "question": "Have you ever thought about starting a collection? If so, what would it be?",
+      "tags": [
+        "collecting",
+        "interests"
+      ]
+    },
+    {
+      "id": "he6",
+      "question": "What's your favorite weekend activity?",
+      "tags": [
+        "weekend",
+        "leisure"
+      ]
+    },
+    {
+      "id": "he7",
+      "question": "Do you play any sports?",
+      "tags": [
+        "sports",
+        "activities"
+      ]
+    },
+    {
+      "id": "he8",
+      "question": "Do you have any creative hobbies?",
+      "tags": [
+        "creativity",
+        "interests"
+      ]
+    },
+    {
+      "id": "he9",
+      "question": "What music do you listen to?",
+      "tags": [
+        "music",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "he10",
+      "question": "Do you prefer solo or group activities?",
+      "tags": [
+        "preferences",
+        "social"
+      ]
+    },
+    {
+      "id": "he11",
+      "question": "What\u2019s a fun activity you recently tried for the first time?",
+      "tags": [
+        "interests",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "he12",
+      "question": "Do you have a favorite spot or place for your hobbies (like a park, cafe, or studio)?",
+      "tags": [
+        "preferences",
+        "leisure"
+      ]
     }
   ]
 }

@@ -1,20 +1,141 @@
 {
-    "category": "tech",
-    "topics": [
-        {
-            "id": "tee1",
-            "question": "What's your favorite tech gadget?",
-            "tags": ["devices", "preferences"]
-        },
-        {
-            "id": "tee2",
-            "question": "How often do you update your phone?",
-            "tags": ["habits", "devices"]
-        },
-        {
-            "id": "tee3",
-            "question": "What apps do you use daily?",
-            "tags": ["apps", "daily-life"]
-        }
-    ]
+  "category": "tech",
+  "topics": [
+    {
+      "id": "tee1",
+      "question": "What gadgets do you use daily?",
+      "tags": [
+        "devices",
+        "habits"
+      ]
+    },
+    {
+      "id": "tee2",
+      "question": "Do you prefer Android or iOS?",
+      "tags": [
+        "preferences",
+        "mobile"
+      ]
+    },
+    {
+      "id": "tee3",
+      "question": "How often do you upgrade your phone?",
+      "tags": [
+        "habits",
+        "devices"
+      ]
+    },
+    {
+      "id": "tee4",
+      "question": "What apps do you use most?",
+      "tags": [
+        "apps",
+        "usage"
+      ]
+    },
+    {
+      "id": "tee5",
+      "question": "Do you enjoy video games?",
+      "tags": [
+        "games",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "tee6",
+      "question": "What's your favorite tech device?",
+      "tags": [
+        "preferences",
+        "devices"
+      ]
+    },
+    {
+      "id": "tee7",
+      "question": "Do you use social media?",
+      "tags": [
+        "social-media",
+        "communication"
+      ]
+    },
+    {
+      "id": "tee8",
+      "question": "What streaming services do you use?",
+      "tags": [
+        "entertainment",
+        "services"
+      ]
+    },
+    {
+      "id": "tee9",
+      "question": "Do you have smart home devices?",
+      "tags": [
+        "smart-home",
+        "devices"
+      ]
+    },
+    {
+      "id": "tee10",
+      "question": "Do you use cloud storage for your files?",
+      "tags": [
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "tee11",
+      "question": "What's your take on ChatGPT?",
+      "tags": [
+        "ai",
+        "tools"
+      ]
+    },
+    {
+      "id": "tee12",
+      "question": "Have you tried any VR headsets?",
+      "tags": [
+        "vr",
+        "gadgets"
+      ]
+    },
+    {
+      "id": "tee13",
+      "question": "What smart home devices do you use?",
+      "tags": [
+        "smart-home",
+        "automation"
+      ]
+    },
+    {
+      "id": "tee14",
+      "question": "What's your favorite tech gadget?",
+      "tags": [
+        "gadgets",
+        "preferences"
+      ]
+    },
+    {
+      "id": "tee15",
+      "question": "Do you use any AI tools?",
+      "tags": [
+        "ai",
+        "tools"
+      ]
+    },
+    {
+      "id": "tee16",
+      "question": "What do you think about foldable phones?",
+      "tags": [
+        "mobile",
+        "trends"
+      ]
+    },
+    {
+      "id": "tee17",
+      "question": "Do you use any health tech devices?",
+      "tags": [
+        "health-tech",
+        "gadgets"
+      ]
+    }
+  ]
 }

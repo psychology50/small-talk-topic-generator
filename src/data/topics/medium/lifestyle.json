@@ -1,20 +1,189 @@
 {
-    "category": "lifestyle",
-    "topics": [
-        {
-          "id": "lm1",
-          "question": "How do you maintain a healthy work-life balance?",
-          "tags": ["balance", "well-being"]
-        },
-        {
-          "id": "lm2",
-          "question": "What healthy habits have you developed?",
-          "tags": ["health", "habits"]
-        },
-        {
-          "id": "lm3",
-          "question": "How do you handle stress?",
-          "tags": ["wellness", "mental-health"]
-        }
+  "category": "lifestyle",
+  "topics": [
+    {
+      "id": "lm1",
+      "question": "How do you maintain work-life balance?",
+      "tags": [
+        "balance",
+        "work-life"
       ]
+    },
+    {
+      "id": "lm2",
+      "question": "What healthy habits have you developed?",
+      "tags": [
+        "health",
+        "habits"
+      ]
+    },
+    {
+      "id": "lm3",
+      "question": "How do you manage stress?",
+      "tags": [
+        "stress",
+        "management"
+      ]
+    },
+    {
+      "id": "lm4",
+      "question": "Do you follow a budget or have any saving tips?",
+      "tags": [
+        "finance",
+        "planning"
+      ]
+    },
+    {
+      "id": "lm5",
+      "question": "How do you stay organized?",
+      "tags": [
+        "organization",
+        "habits"
+      ]
+    },
+    {
+      "id": "lm6",
+      "question": "How has your fitness routine changed over time?",
+      "tags": [
+        "fitness",
+        "health"
+      ]
+    },
+    {
+      "id": "lm7",
+      "question": "How do you practice self-care?",
+      "tags": [
+        "self-care",
+        "wellness"
+      ]
+    },
+    {
+      "id": "lm8",
+      "question": "What's your approach to personal development?",
+      "tags": [
+        "development",
+        "growth"
+      ]
+    },
+    {
+      "id": "lm9",
+      "question": "How do you maintain relationships?",
+      "tags": [
+        "relationships",
+        "social"
+      ]
+    },
+    {
+      "id": "lm10",
+      "question": "What role does nature play in your lifestyle?",
+      "tags": [
+        "nature",
+        "wellness"
+      ]
+    },
+    {
+      "id": "lm11",
+      "question": "How do you manage dating and career?",
+      "tags": [
+        "relationships",
+        "work-life"
+      ]
+    },
+    {
+      "id": "lm12",
+      "question": "What's your approach to sustainable living?",
+      "tags": [
+        "sustainability",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "lm13",
+      "question": "How do you deal with burnout?",
+      "tags": [
+        "mental-health",
+        "work-life"
+      ]
+    },
+    {
+      "id": "lm14",
+      "question": "What's your take on minimalism?",
+      "tags": [
+        "lifestyle",
+        "trends"
+      ]
+    },
+    {
+      "id": "lm15",
+      "question": "How do you maintain friendships as an adult?",
+      "tags": [
+        "relationships",
+        "social"
+      ]
+    },
+    {
+      "id": "lm16",
+      "question": "What's your approach to financial wellness?",
+      "tags": [
+        "finance",
+        "planning"
+      ]
+    },
+    {
+      "id": "lm17",
+      "question": "How do you handle social media pressure?",
+      "tags": [
+        "social-media",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "lm18",
+      "question": "What's your view on work-life integration?",
+      "tags": [
+        "work-life",
+        "balance"
+      ]
+    },
+    {
+      "id": "lm19",
+      "question": "How do you stay motivated to exercise?",
+      "tags": [
+        "fitness",
+        "motivation"
+      ]
+    },
+    {
+      "id": "lm20",
+      "question": "What's your experience with therapy or counseling?",
+      "tags": [
+        "mental-health",
+        "wellness"
+      ]
+    },
+    {
+      "id": "lm21",
+      "question": "How do you manage your downtime effectively?",
+      "tags": [
+        "work-life",
+        "balance"
+      ]
+    },
+    {
+      "id": "lm22",
+      "question": "What\u2019s the most rewarding healthy habit you\u2019ve developed?",
+      "tags": [
+        "fitness",
+        "motivation"
+      ]
+    },
+    {
+      "id": "lm23",
+      "question": "How do you stay focused on your goals during busy periods?",
+      "tags": [
+        "mental-health",
+        "wellness"
+      ]
+    }
+  ]
 }

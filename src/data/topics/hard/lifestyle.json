@@ -1,20 +1,109 @@
 {
-    "category": "lifestyle",
-    "topics": [
-        {
-          "id": "lh1",
-          "question": "How has your lifestyle evolved with age?",
-          "tags": ["change", "growth"]
-        },
-        {
-          "id": "lh2",
-          "question": "What impact does your environment have on your lifestyle?",
-          "tags": ["environment", "impact"]
-        },
-        {
-          "id": "lh3",
-          "question": "How do your values influence your lifestyle choices?",
-          "tags": ["values", "choices"]
-        }
+  "category": "lifestyle",
+  "topics": [
+    {
+      "id": "lh1",
+      "question": "How has your lifestyle evolved with age?",
+      "tags": [
+        "evolution",
+        "growth"
       ]
+    },
+    {
+      "id": "lh2",
+      "question": "What\u2019s a personal value that shapes how you spend your time?",
+      "tags": [
+        "values",
+        "choices"
+      ]
+    },
+    {
+      "id": "lh3",
+      "question": "How does environment influence lifestyle?",
+      "tags": [
+        "environment",
+        "influence"
+      ]
+    },
+    {
+      "id": "lh4",
+      "question": "What role does mindfulness play in your life?",
+      "tags": [
+        "mindfulness",
+        "wellness"
+      ]
+    },
+    {
+      "id": "lh5",
+      "question": "How do you balance tradition and modernity?",
+      "tags": [
+        "balance",
+        "values"
+      ]
+    },
+    {
+      "id": "lh6",
+      "question": "What impact does society have on lifestyle?",
+      "tags": [
+        "society",
+        "impact"
+      ]
+    },
+    {
+      "id": "lh7",
+      "question": "How do you maintain authenticity in your lifestyle?",
+      "tags": [
+        "authenticity",
+        "values"
+      ]
+    },
+    {
+      "id": "lh8",
+      "question": "What's your philosophy on sustainable living?",
+      "tags": [
+        "sustainability",
+        "philosophy"
+      ]
+    },
+    {
+      "id": "lh9",
+      "question": "How do you adapt to life changes?",
+      "tags": [
+        "adaptation",
+        "change"
+      ]
+    },
+    {
+      "id": "lh10",
+      "question": "What lifestyle changes have had the biggest impact on your happiness?",
+      "tags": [
+        "legacy",
+        "purpose"
+      ]
+    },
+    {
+      "id": "lh11",
+      "question": "How do you think your lifestyle will evolve in the next decade?",
+      "tags": [
+        "sustainability",
+        "philosophy"
+      ]
+    },
+    {
+      "id": "lh12",
+      "question": "What\u2019s your perspective on balancing ambition with contentment?",
+      "tags": [
+        "adaptation",
+        "change"
+      ]
+    },
+    {
+      "id": "lh13",
+      "question": "Do you believe modern conveniences make life better or more complicated?",
+      "tags": [
+        "legacy",
+        "purpose"
+      ]
+    }
+  ]
 }

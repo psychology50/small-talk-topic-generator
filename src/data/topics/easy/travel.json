@@ -1,20 +1,181 @@
 {
-    "category": "travel",
-    "topics": [
-      {
-        "id": "tre1",
-        "question": "What's your favorite place to visit?",
-        "tags": ["destinations", "preferences"]
-      },
-      {
-        "id": "tre2",
-        "question": "Do you prefer beach or mountain vacations?",
-        "tags": ["preferences", "nature"]
-      },
-      {
-        "id": "tre3",
-        "question": "What's your ideal vacation length?",
-        "tags": ["planning", "preferences"]
-      }
-    ]
+  "category": "travel",
+  "topics": [
+    {
+      "id": "te1",
+      "question": "Do you enjoy traveling?",
+      "tags": [
+        "preferences",
+        "general"
+      ]
+    },
+    {
+      "id": "te2",
+      "question": "Do you prefer mountains or beaches?",
+      "tags": [
+        "preferences",
+        "destinations"
+      ]
+    },
+    {
+      "id": "te3",
+      "question": "What's your favorite way to travel?",
+      "tags": [
+        "transportation",
+        "preferences"
+      ]
+    },
+    {
+      "id": "te4",
+      "question": "Do you prefer domestic or international travel?",
+      "tags": [
+        "preferences",
+        "destinations"
+      ]
+    },
+    {
+      "id": "te5",
+      "question": "When was the last time you went on a trip, and where did you go?",
+      "tags": [
+        "frequency",
+        "habits"
+      ]
+    },
+    {
+      "id": "te6",
+      "question": "Do you like to take photos while traveling?",
+      "tags": [
+        "activities",
+        "memories"
+      ]
+    },
+    {
+      "id": "te7",
+      "question": "What's your ideal trip length?",
+      "tags": [
+        "preferences",
+        "planning"
+      ]
+    },
+    {
+      "id": "te8",
+      "question": "Do you prefer to travel alone or with others?",
+      "tags": [
+        "preferences",
+        "social"
+      ]
+    },
+    {
+      "id": "te9",
+      "question": "Have you been to many countries?",
+      "tags": [
+        "experience",
+        "international"
+      ]
+    },
+    {
+      "id": "te10",
+      "question": "Do you like trying local food when traveling?",
+      "tags": [
+        "food",
+        "experiences"
+      ]
+    },
+    {
+      "id": "te11",
+      "question": "Have you ever gotten travel inspiration from social media?",
+      "tags": [
+        "social-media",
+        "content"
+      ]
+    },
+    {
+      "id": "te12",
+      "question": "What travel apps do you use?",
+      "tags": [
+        "apps",
+        "planning"
+      ]
+    },
+    {
+      "id": "te13",
+      "question": "Are you into staycations?",
+      "tags": [
+        "local",
+        "trends"
+      ]
+    },
+    {
+      "id": "te14",
+      "question": "Do you prefer solo or group trips?",
+      "tags": [
+        "preferences",
+        "style"
+      ]
+    },
+    {
+      "id": "te15",
+      "question": "What's your favorite booking platform?",
+      "tags": [
+        "planning",
+        "apps"
+      ]
+    },
+    {
+      "id": "te16",
+      "question": "Do you create travel content?",
+      "tags": [
+        "content",
+        "social-media"
+      ]
+    },
+    {
+      "id": "te17",
+      "question": "Are you interested in workations?",
+      "tags": [
+        "remote-work",
+        "trends"
+      ]
+    },
+    {
+      "id": "te18",
+      "question": "How do you document your travels?",
+      "tags": [
+        "memories",
+        "content"
+      ]
+    },
+    {
+      "id": "te19",
+      "question": "What's your ideal weekend getaway?",
+      "tags": [
+        "short-trips",
+        "preferences"
+      ]
+    },
+    {
+      "id": "te20",
+      "question": "Do you use travel reward programs?",
+      "tags": [
+        "rewards",
+        "planning"
+      ]
+    },
+    {
+      "id": "te21",
+      "question": "What\u2019s a destination that\u2019s on your bucket list?",
+      "tags": [
+        "short-trips",
+        "preferences"
+      ]
+    },
+    {
+      "id": "te22",
+      "question": "Do you prefer planning every detail or going with the flow on trips?",
+      "tags": [
+        "rewards",
+        "planning"
+      ]
+    }
+  ]
 }

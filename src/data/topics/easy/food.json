@@ -1,20 +1,181 @@
 {
-    "category": "food",
-    "topics": [
+  "category": "food",
+  "topics": [
     {
       "id": "fe1",
       "question": "What's your favorite type of food?",
-      "tags": ["preferences", "cuisine"]
+      "tags": [
+        "preferences",
+        "cuisine"
+      ]
     },
     {
       "id": "fe2",
-      "question": "Do you prefer cooking at home or eating out?",
-      "tags": ["preferences", "lifestyle"]
+      "question": "Do you enjoy cooking?",
+      "tags": [
+        "cooking",
+        "hobbies"
+      ]
     },
     {
       "id": "fe3",
-      "question": "What's your go-to comfort food?",
-      "tags": ["comfort-food", "personal"]
+      "question": "What's your favorite meal of the day?",
+      "tags": [
+        "preferences",
+        "meals"
+      ]
+    },
+    {
+      "id": "fe4",
+      "question": "Do you prefer eating out or at home?",
+      "tags": [
+        "preferences",
+        "habits"
+      ]
+    },
+    {
+      "id": "fe5",
+      "question": "What's your go-to snack?",
+      "tags": [
+        "preferences",
+        "snacks"
+      ]
+    },
+    {
+      "id": "fe6",
+      "question": "Do you have any dietary restrictions?",
+      "tags": [
+        "diet",
+        "health"
+      ]
+    },
+    {
+      "id": "fe7",
+      "question": "What's your favorite restaurant?",
+      "tags": [
+        "preferences",
+        "dining"
+      ]
+    },
+    {
+      "id": "fe8",
+      "question": "Do you like trying new foods?",
+      "tags": [
+        "adventure",
+        "preferences"
+      ]
+    },
+    {
+      "id": "fe9",
+      "question": "What's your favorite dessert?",
+      "tags": [
+        "preferences",
+        "desserts"
+      ]
+    },
+    {
+      "id": "fe10",
+      "question": "Do you drink coffee or tea?",
+      "tags": [
+        "preferences",
+        "beverages"
+      ]
+    },
+    {
+      "id": "fe11",
+      "question": "What's your favorite food delivery app?",
+      "tags": [
+        "delivery",
+        "apps"
+      ]
+    },
+    {
+      "id": "fe12",
+      "question": "Do you ever get recipe ideas from social media?",
+      "tags": [
+        "social-media",
+        "content"
+      ]
+    },
+    {
+      "id": "fe13",
+      "question": "Are you into meal kit services?",
+      "tags": [
+        "services",
+        "cooking"
+      ]
+    },
+    {
+      "id": "fe14",
+      "question": "What's your go-to caf\u00e9?",
+      "tags": [
+        "cafes",
+        "social"
+      ]
+    },
+    {
+      "id": "fe15",
+      "question": "Do you take food photos for social media?",
+      "tags": [
+        "social-media",
+        "habits"
+      ]
+    },
+    {
+      "id": "fe16",
+      "question": "What's your favorite brunch spot?",
+      "tags": [
+        "dining",
+        "social"
+      ]
+    },
+    {
+      "id": "fe17",
+      "question": "Have you ever tried making a viral recipe?",
+      "tags": [
+        "trends",
+        "social-media"
+      ]
+    },
+    {
+      "id": "fe18",
+      "question": "Do you watch mukbang videos?",
+      "tags": [
+        "content",
+        "trends"
+      ]
+    },
+    {
+      "id": "fe19",
+      "question": "What's your favorite fusion food?",
+      "tags": [
+        "cuisine",
+        "trends"
+      ]
+    },
+    {
+      "id": "fe20",
+      "question": "Are you into craft beverages?",
+      "tags": [
+        "drinks",
+        "trends"
+      ]
+    },
+    {
+      "id": "fe21",
+      "question": "What\u2019s a dish you could eat every day and never get tired of?",
+      "tags": [
+        "diet",
+        "social"
+      ]
+    },
+    {
+      "id": "fe22",
+      "question": "What\u2019s the first dish you ever learned to cook?",
+      "tags": [
+        "trends",
+        "interests"
+      ]
     }
   ]
 }

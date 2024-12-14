@@ -1,20 +1,85 @@
 {
-    "category": "travel",
-    "topics": [
-      {
-        "id": "trh1",
-        "question": "How has traveling changed your worldview?",
-        "tags": ["perspective", "personal-growth"]
-      },
-      {
-        "id": "trh2",
-        "question": "What cultural differences have impacted you the most?",
-        "tags": ["culture", "impact"]
-      },
-      {
-        "id": "trh3",
-        "question": "How do you think travel will evolve in the future?",
-        "tags": ["future", "society"]
-      }
-    ]
+  "category": "travel",
+  "topics": [
+    {
+      "id": "th1",
+      "question": "How has traveling changed your worldview?",
+      "tags": [
+        "perspective",
+        "impact"
+      ]
+    },
+    {
+      "id": "th2",
+      "question": "What cultural differences have impacted you most?",
+      "tags": [
+        "culture",
+        "impact"
+      ]
+    },
+    {
+      "id": "th3",
+      "question": "How do you connect with different cultures?",
+      "tags": [
+        "culture",
+        "connection"
+      ]
+    },
+    {
+      "id": "th4",
+      "question": "What have you learned about yourself through travel?",
+      "tags": [
+        "self-discovery",
+        "growth"
+      ]
+    },
+    {
+      "id": "th5",
+      "question": "How has travel influenced your life choices?",
+      "tags": [
+        "influence",
+        "decisions"
+      ]
+    },
+    {
+      "id": "th6",
+      "question": "What role does travel play in personal growth?",
+      "tags": [
+        "growth",
+        "development"
+      ]
+    },
+    {
+      "id": "th7",
+      "question": "How do you balance travel with other life commitments?",
+      "tags": [
+        "balance",
+        "priorities"
+      ]
+    },
+    {
+      "id": "th8",
+      "question": "What\u2019s a meaningful lesson you\u2019ve learned from your travel experiences?",
+      "tags": [
+        "philosophy",
+        "insights"
+      ]
+    },
+    {
+      "id": "th9",
+      "question": "How do you think your travel style has changed over the years?",
+      "tags": [
+        "future",
+        "change"
+      ]
+    },
+    {
+      "id": "th10",
+      "question": "What impact does tourism have on local cultures?",
+      "tags": [
+        "impact",
+        "culture"
+      ]
+    }
+  ]
 }

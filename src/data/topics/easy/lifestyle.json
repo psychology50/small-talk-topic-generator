@@ -1,20 +1,189 @@
 {
-    "category": "lifestyle",
-    "topics": [
+  "category": "lifestyle",
+  "topics": [
     {
       "id": "le1",
       "question": "What's your typical daily routine?",
-      "tags": ["daily-life", "habits"]
+      "tags": [
+        "routine",
+        "daily-life"
+      ]
     },
     {
       "id": "le2",
-      "question": "What's your favorite time of day?",
-      "tags": ["preferences", "daily-life"]
+      "question": "How do you start your day?",
+      "tags": [
+        "morning",
+        "habits"
+      ]
     },
     {
       "id": "le3",
-      "question": "How do you prefer to exercise?",
-      "tags": ["health", "fitness"]
+      "question": "Do you exercise regularly?",
+      "tags": [
+        "exercise",
+        "health"
+      ]
+    },
+    {
+      "id": "le4",
+      "question": "What's your favorite time of day?",
+      "tags": [
+        "preferences",
+        "daily-life"
+      ]
+    },
+    {
+      "id": "le5",
+      "question": "How do you spend your weekends?",
+      "tags": [
+        "weekend",
+        "leisure"
+      ]
+    },
+    {
+      "id": "le6",
+      "question": "Do you have any daily habits?",
+      "tags": [
+        "habits",
+        "routine"
+      ]
+    },
+    {
+      "id": "le7",
+      "question": "Are you a morning person or a night owl?",
+      "tags": [
+        "sleep",
+        "routine"
+      ]
+    },
+    {
+      "id": "le8",
+      "question": "Do you meal plan?",
+      "tags": [
+        "food",
+        "planning"
+      ]
+    },
+    {
+      "id": "le9",
+      "question": "How do you commute?",
+      "tags": [
+        "transportation",
+        "daily-life"
+      ]
+    },
+    {
+      "id": "le10",
+      "question": "What's your favorite way to relax?",
+      "tags": [
+        "relaxation",
+        "preferences"
+      ]
+    },
+    {
+      "id": "le11",
+      "question": "Do you meal prep?",
+      "tags": [
+        "food",
+        "organization"
+      ]
+    },
+    {
+      "id": "le12",
+      "question": "Are you into fitness challenges?",
+      "tags": [
+        "fitness",
+        "trends"
+      ]
+    },
+    {
+      "id": "le13",
+      "question": "Do you use any wellness apps?",
+      "tags": [
+        "apps",
+        "wellness"
+      ]
+    },
+    {
+      "id": "le14",
+      "question": "What's your favorite workout playlist?",
+      "tags": [
+        "music",
+        "fitness"
+      ]
+    },
+    {
+      "id": "le15",
+      "question": "Do you use any gadgets to track your health?",
+      "tags": [
+        "fitness",
+        "tracking"
+      ]
+    },
+    {
+      "id": "le16",
+      "question": "Are you into mindfulness apps?",
+      "tags": [
+        "wellness",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "le17",
+      "question": "What's your skincare routine like?",
+      "tags": [
+        "self-care",
+        "beauty"
+      ]
+    },
+    {
+      "id": "le18",
+      "question": "Do you follow any wellness influencers?",
+      "tags": [
+        "social-media",
+        "wellness"
+      ]
+    },
+    {
+      "id": "le19",
+      "question": "What's your favorite healthy snack?",
+      "tags": [
+        "food",
+        "health"
+      ]
+    },
+    {
+      "id": "le20",
+      "question": "How do you practice self-care?",
+      "tags": [
+        "wellness",
+        "self-care"
+      ]
+    },
+    {
+      "id": "le21",
+      "question": "Do you have a favorite way to spend your evenings?",
+      "tags": [
+        "social-media",
+        "wellness"
+      ]
+    },
+    {
+      "id": "le22",
+      "question": "What\u2019s your favorite way to unwind after a busy day?",
+      "tags": [
+        "food",
+        "health"
+      ]
+    },
+    {
+      "id": "le23",
+      "question": "Are you more into working out at home or at the gym?",
+      "tags": [
+        "wellness",
+        "self-care"
+      ]
     }
   ]
 }

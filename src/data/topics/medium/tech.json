@@ -1,20 +1,157 @@
 {
-    "category": "tech",
-    "topics": [
-        {
-            "id": "tem1",
-            "question": "How has technology changed your work life?",
-            "tags": ["work", "impact"]
-        },
-        {
-            "id": "tem2",
-            "question": "What's your opinion on social media?",
-            "tags": ["social-media", "society"]
-        },
-        {
-            "id": "tem3",
-            "question": "How do you manage screen time?",
-            "tags": ["lifestyle", "health"]
-        }
-    ]
+  "category": "tech",
+  "topics": [
+    {
+      "id": "tem1",
+      "question": "How has technology changed your work life?",
+      "tags": [
+        "work",
+        "impact"
+      ]
+    },
+    {
+      "id": "tem2",
+      "question": "What's your approach to digital privacy?",
+      "tags": [
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "id": "tem3",
+      "question": "How do you learn about new technology?",
+      "tags": [
+        "learning",
+        "education"
+      ]
+    },
+    {
+      "id": "tem4",
+      "question": "What's your view on social media's impact?",
+      "tags": [
+        "social-media",
+        "society"
+      ]
+    },
+    {
+      "id": "tem5",
+      "question": "How do you manage screen time?",
+      "tags": [
+        "health",
+        "habits"
+      ]
+    },
+    {
+      "id": "tem6",
+      "question": "What tech skills are you developing?",
+      "tags": [
+        "skills",
+        "learning"
+      ]
+    },
+    {
+      "id": "tem7",
+      "question": "How do you stay current with tech trends?",
+      "tags": [
+        "trends",
+        "learning"
+      ]
+    },
+    {
+      "id": "tem8",
+      "question": "What's your experience with remote work tools?",
+      "tags": [
+        "work",
+        "tools"
+      ]
+    },
+    {
+      "id": "tem9",
+      "question": "How do you evaluate new technology?",
+      "tags": [
+        "evaluation",
+        "decision-making"
+      ]
+    },
+    {
+      "id": "tem10",
+      "question": "What's your favorite tech innovation?",
+      "tags": [
+        "innovation",
+        "preferences"
+      ]
+    },
+    {
+      "id": "tem11",
+      "question": "How do you feel about the metaverse?",
+      "tags": [
+        "metaverse",
+        "virtual"
+      ]
+    },
+    {
+      "id": "tem12",
+      "question": "Have you seen AI-generated content? What do you think about it?",
+      "tags": [
+        "ai",
+        "creativity"
+      ]
+    },
+    {
+      "id": "tem13",
+      "question": "How do you protect your digital privacy?",
+      "tags": [
+        "privacy",
+        "security"
+      ]
+    },
+    {
+      "id": "tem14",
+      "question": "Have you tried any tools that make tech easier to use, like drag-and-drop platforms?",
+      "tags": [
+        "no-code",
+        "development"
+      ]
+    },
+    {
+      "id": "tem15",
+      "question": "How do you feel about social media algorithms?",
+      "tags": [
+        "social-media",
+        "algorithms"
+      ]
+    },
+    {
+      "id": "tem16",
+      "question": "What's your view on digital wallets?",
+      "tags": [
+        "fintech",
+        "mobile"
+      ]
+    },
+    {
+      "id": "tem17",
+      "question": "How do you feel about subscription-based apps?",
+      "tags": [
+        "apps",
+        "business-model"
+      ]
+    },
+    {
+      "id": "tem18",
+      "question": "What tech trends excite you most?",
+      "tags": [
+        "trends",
+        "future"
+      ]
+    },
+    {
+      "id": "tem19",
+      "question": "Do you think remote work has made technology more essential?",
+      "tags": [
+        "organization",
+        "digital"
+      ]
+    }
+  ]
 }

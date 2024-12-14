@@ -1,20 +1,101 @@
 {
-    "category": "tech",
-    "topics": [
-        {
-            "id": "teh1",
-            "question": "How do you think AI will impact society?",
-            "tags": ["ai", "future", "society"]
-        },
-        {
-            "id": "teh2",
-            "question": "What ethical concerns do you have about technology?",
-            "tags": ["ethics", "society"]
-        },
-        {
-            "id": "teh3",
-            "question": "How do you balance digital and real-world connections?",
-            "tags": ["relationships", "balance"]
-        }
-    ]
+  "category": "tech",
+  "topics": [
+    {
+      "id": "teh1",
+      "question": "How will AI impact society?",
+      "tags": [
+        "ai",
+        "future"
+      ]
+    },
+    {
+      "id": "teh2",
+      "question": "What ethical concerns do you have about technology?",
+      "tags": [
+        "ethics",
+        "concerns"
+      ]
+    },
+    {
+      "id": "teh3",
+      "question": "How do you balance digital and real-world life?",
+      "tags": [
+        "balance",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "teh4",
+      "question": "What role should technology play in education?",
+      "tags": [
+        "education",
+        "society"
+      ]
+    },
+    {
+      "id": "teh5",
+      "question": "How might technology change human relationships?",
+      "tags": [
+        "relationships",
+        "impact"
+      ]
+    },
+    {
+      "id": "teh6",
+      "question": "Do you think AI will ever surpass human intelligence completely?",
+      "tags": [
+        "future",
+        "philosophy"
+      ]
+    },
+    {
+      "id": "teh7",
+      "question": "How should we govern artificial intelligence?",
+      "tags": [
+        "ai",
+        "governance"
+      ]
+    },
+    {
+      "id": "teh8",
+      "question": "What's technology's role in solving global challenges?",
+      "tags": [
+        "global",
+        "solutions"
+      ]
+    },
+    {
+      "id": "teh9",
+      "question": "How do you see technology evolving in the next decade?",
+      "tags": [
+        "future",
+        "evolution"
+      ]
+    },
+    {
+      "id": "teh10",
+      "question": "How has technology influenced the way we share and preserve culture?",
+      "tags": [
+        "culture",
+        "impact"
+      ]
+    },
+    {
+      "id": "teh11",
+      "question": "What ethical dilemmas do you think we\u2019ll face with AI in the future?",
+      "tags": [
+        "future",
+        "evolution"
+      ]
+    },
+    {
+      "id": "teh12",
+      "question": "How can technology be used to bridge social or economic gaps?",
+      "tags": [
+        "culture",
+        "impact"
+      ]
+    }
+  ]
 }

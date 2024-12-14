@@ -1,20 +1,109 @@
 {
-    "category": "entertainment",
-    "topics": [
-        {
-          "id": "eh1",
-          "question": "How does entertainment influence society?",
-          "tags": ["society", "impact"]
-        },
-        {
-          "id": "eh2",
-          "question": "What role should entertainment play in education?",
-          "tags": ["education", "society"]
-        },
-        {
-          "id": "eh3",
-          "question": "How do you think entertainment will evolve in the future?",
-          "tags": ["future", "technology"]
-        }
+  "category": "entertainment",
+  "topics": [
+    {
+      "id": "eh1",
+      "question": "How does entertainment shape society?",
+      "tags": [
+        "society",
+        "impact"
       ]
+    },
+    {
+      "id": "eh2",
+      "question": "What role should entertainment play in education?",
+      "tags": [
+        "education",
+        "purpose"
+      ]
+    },
+    {
+      "id": "eh3",
+      "question": "How has entertainment evolved with technology?",
+      "tags": [
+        "technology",
+        "evolution"
+      ]
+    },
+    {
+      "id": "eh4",
+      "question": "What's the future of entertainment?",
+      "tags": [
+        "future",
+        "trends"
+      ]
+    },
+    {
+      "id": "eh5",
+      "question": "How does entertainment influence culture?",
+      "tags": [
+        "culture",
+        "influence"
+      ]
+    },
+    {
+      "id": "eh6",
+      "question": "What ethical considerations exist in entertainment?",
+      "tags": [
+        "ethics",
+        "considerations"
+      ]
+    },
+    {
+      "id": "eh7",
+      "question": "Do you think entertainment is more of a mirror or a shaper of society?",
+      "tags": [
+        "society",
+        "reflection"
+      ]
+    },
+    {
+      "id": "eh8",
+      "question": "What impact does entertainment have on youth?",
+      "tags": [
+        "youth",
+        "impact"
+      ]
+    },
+    {
+      "id": "eh9",
+      "question": "How do different cultures approach entertainment?",
+      "tags": [
+        "culture",
+        "comparison"
+      ]
+    },
+    {
+      "id": "eh10",
+      "question": "How does entertainment contribute to mental well-being or stress relief?",
+      "tags": [
+        "value",
+        "society"
+      ]
+    },
+    {
+      "id": "eh11",
+      "question": "What responsibilities do creators have when making impactful content?",
+      "tags": [
+        "youth",
+        "impact"
+      ]
+    },
+    {
+      "id": "eh12",
+      "question": "How do global entertainment trends influence local cultures?",
+      "tags": [
+        "culture",
+        "comparison"
+      ]
+    },
+    {
+      "id": "eh13",
+      "question": "What\u2019s your take on the line between entertainment and propaganda?",
+      "tags": [
+        "value",
+        "society"
+      ]
+    }
+  ]
 }

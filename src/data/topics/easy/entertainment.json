@@ -1,20 +1,109 @@
 {
-    "category": "entertainment",
-    "topics": [
-        {
-          "id": "ee1",
-          "question": "What kind of movies do you enjoy?",
-          "tags": ["movies", "preferences"]
-        },
-        {
-          "id": "ee2",
-          "question": "What's your favorite way to spend weekends?",
-          "tags": ["leisure", "lifestyle"]
-        },
-        {
-          "id": "ee3",
-          "question": "Do you prefer watching TV shows or movies?",
-          "tags": ["preferences", "media"]
-        }
+  "category": "entertainment",
+  "topics": [
+    {
+      "id": "ee1",
+      "question": "What's your favorite Netflix series?",
+      "tags": [
+        "streaming",
+        "tv-shows"
       ]
+    },
+    {
+      "id": "ee2",
+      "question": "Who\u2019s your favorite YouTuber, and why?",
+      "tags": [
+        "social-media",
+        "content"
+      ]
+    },
+    {
+      "id": "ee3",
+      "question": "What's your go-to music streaming platform?",
+      "tags": [
+        "music",
+        "streaming"
+      ]
+    },
+    {
+      "id": "ee4",
+      "question": "Are you into any Korean dramas?",
+      "tags": [
+        "k-drama",
+        "tv-shows"
+      ]
+    },
+    {
+      "id": "ee5",
+      "question": "Do you follow any content creators?",
+      "tags": [
+        "social-media",
+        "influencers"
+      ]
+    },
+    {
+      "id": "ee6",
+      "question": "What's the last show you binged?",
+      "tags": [
+        "tv-shows",
+        "habits"
+      ]
+    },
+    {
+      "id": "ee7",
+      "question": "What\u2019s your favorite short-form video platform?",
+      "tags": [
+        "social-media",
+        "short-form"
+      ]
+    },
+    {
+      "id": "ee8",
+      "question": "What podcasts do you listen to?",
+      "tags": [
+        "podcasts",
+        "audio"
+      ]
+    },
+    {
+      "id": "ee9",
+      "question": "Are you into any anime?",
+      "tags": [
+        "anime",
+        "animation"
+      ]
+    },
+    {
+      "id": "ee10",
+      "question": "What's your favorite movie genre?",
+      "tags": [
+        "movies",
+        "preferences"
+      ]
+    },
+    {
+      "id": "ee11",
+      "question": "What\u2019s the most rewatchable movie or series for you?",
+      "tags": [
+        "podcasts",
+        "audio"
+      ]
+    },
+    {
+      "id": "ee12",
+      "question": "Are you more into live performances or recorded content?",
+      "tags": [
+        "anime",
+        "animation"
+      ]
+    },
+    {
+      "id": "ee13",
+      "question": "What\u2019s your favorite movie snack?",
+      "tags": [
+        "movies",
+        "preferences"
+      ]
+    }
+  ]
 }

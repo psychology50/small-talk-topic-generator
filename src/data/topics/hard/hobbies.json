@@ -4,17 +4,98 @@
     {
       "id": "hh1",
       "question": "How have your hobbies shaped your personality?",
-      "tags": ["personal-growth", "reflection"]
+      "tags": [
+        "personal-growth",
+        "impact"
+      ]
     },
     {
       "id": "hh2",
-      "question": "What challenges have you overcome through your hobbies?",
-      "tags": ["challenges", "growth"]
+      "question": "What life lessons have you learned from your hobbies?",
+      "tags": [
+        "lessons",
+        "wisdom"
+      ]
     },
     {
       "id": "hh3",
       "question": "How do your hobbies reflect your values?",
-      "tags": ["values", "personal"]
+      "tags": [
+        "values",
+        "reflection"
+      ]
+    },
+    {
+      "id": "hh4",
+      "question": "What role do hobbies play in personal development?",
+      "tags": [
+        "development",
+        "growth"
+      ]
+    },
+    {
+      "id": "hh5",
+      "question": "How do you balance multiple interests?",
+      "tags": [
+        "balance",
+        "time-management"
+      ]
+    },
+    {
+      "id": "hh6",
+      "question": "What drives your passion for your hobbies?",
+      "tags": [
+        "passion",
+        "motivation"
+      ]
+    },
+    {
+      "id": "hh7",
+      "question": "How do your hobbies contribute to your well-being?",
+      "tags": [
+        "well-being",
+        "impact"
+      ]
+    },
+    {
+      "id": "hh8",
+      "question": "What\u2019s the most surprising thing your hobby has taught you about yourself?",
+      "tags": [
+        "sacrifices",
+        "commitment"
+      ]
+    },
+    {
+      "id": "hh9",
+      "question": "How do you see your hobbies evolving in the future?",
+      "tags": [
+        "future",
+        "growth"
+      ]
+    },
+    {
+      "id": "hh10",
+      "question": "If you could create a community or club around your hobby, what would it look like?",
+      "tags": [
+        "legacy",
+        "impact"
+      ]
+    },
+    {
+      "id": "hh11",
+      "question": "Have your hobbies ever led you to an unexpected opportunity or experience?",
+      "tags": [
+        "future",
+        "growth"
+      ]
+    },
+    {
+      "id": "hh12",
+      "question": "How has your hobby inspired you to try something completely new?",
+      "tags": [
+        "legacy",
+        "impact"
+      ]
     }
   ]
 }

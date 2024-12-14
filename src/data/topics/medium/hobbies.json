@@ -3,28 +3,98 @@
   "topics": [
     {
       "id": "hm1",
-      "question": "Do you play any sports or instruments?",
-      "tags": ["sports", "music", "skills"]
+      "question": "How did you discover your favorite hobby?",
+      "tags": [
+        "discovery",
+        "interests"
+      ]
     },
     {
       "id": "hm2",
-      "question": "What hobby would you like to start if you had more time?",
-      "tags": ["aspirations", "interests"]
+      "question": "What skills have you developed through your hobbies?",
+      "tags": [
+        "skills",
+        "development"
+      ]
     },
     {
       "id": "hm3",
       "question": "How do you make time for your hobbies?",
-      "tags": ["time-management", "lifestyle"]
+      "tags": [
+        "time-management",
+        "balance"
+      ]
     },
     {
       "id": "hm4",
-      "question": "What skills have you developed through your hobbies?",
-      "tags": ["skills", "development"]
+      "question": "What hobby would you like to try next?",
+      "tags": [
+        "aspirations",
+        "interests"
+      ]
     },
     {
       "id": "hm5",
-      "question": "Do you prefer solo hobbies or group activities?",
-      "tags": ["social", "preferences"]
+      "question": "Have your hobbies changed over the years?",
+      "tags": [
+        "changes",
+        "growth"
+      ]
+    },
+    {
+      "id": "hm6",
+      "question": "Have you ever faced a funny or unexpected challenge while enjoying your hobbies?",
+      "tags": [
+        "challenges",
+        "learning"
+      ]
+    },
+    {
+      "id": "hm7",
+      "question": "How do your hobbies help you relax?",
+      "tags": [
+        "relaxation",
+        "wellness"
+      ]
+    },
+    {
+      "id": "hm8",
+      "question": "What\u2019s the most unique or unexpected tool you\u2019ve used for a hobby?",
+      "tags": [
+        "equipment",
+        "resources"
+      ]
+    },
+    {
+      "id": "hm9",
+      "question": "Have you made friends through your hobbies?",
+      "tags": [
+        "social",
+        "connections"
+      ]
+    },
+    {
+      "id": "hm10",
+      "question": "What's your proudest achievement in your hobby?",
+      "tags": [
+        "achievements",
+        "satisfaction"
+      ]
+    },
+    {
+      "id": "hm11",
+      "question": "If you could teach your hobby to someone, how would you do it?",
+      "tags": [
+        "social",
+        "connections"
+      ]
+    },
+    {
+      "id": "hm12",
+      "question": "What\u2019s the best memory you have related to your hobby?",
+      "tags": [
+        "satisfaction"
+      ]
     }
   ]
 }
