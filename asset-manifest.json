@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/small-talk-topic-generator/static/css/main.50fbe407.css",
-    "main.js": "/small-talk-topic-generator/static/js/main.a99483fd.js",
+    "main.js": "/small-talk-topic-generator/static/js/main.bbbab8a0.js",
     "static/js/488.4f68f12f.chunk.js": "/small-talk-topic-generator/static/js/488.4f68f12f.chunk.js",
     "index.html": "/small-talk-topic-generator/index.html",
     "main.50fbe407.css.map": "/small-talk-topic-generator/static/css/main.50fbe407.css.map",
-    "main.a99483fd.js.map": "/small-talk-topic-generator/static/js/main.a99483fd.js.map",
+    "main.bbbab8a0.js.map": "/small-talk-topic-generator/static/js/main.bbbab8a0.js.map",
     "488.4f68f12f.chunk.js.map": "/small-talk-topic-generator/static/js/488.4f68f12f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50fbe407.css",
-    "static/js/main.a99483fd.js"
+    "static/js/main.bbbab8a0.js"
   ]
 }
