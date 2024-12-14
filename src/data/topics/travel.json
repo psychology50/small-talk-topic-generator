@@ -1,0 +1,35 @@
+{
+    "category": "travel",
+    "topics": [
+      {
+        "id": "t1",
+        "question": "What's your favorite place you've ever visited?",
+        "difficulty": "easy",
+        "tags": ["experiences", "preferences"]
+      },
+      {
+        "id": "t2",
+        "question": "Where would you like to travel next?",
+        "difficulty": "easy",
+        "tags": ["aspirations", "future"]
+      },
+      {
+        "id": "t3",
+        "question": "What's the most interesting local food you've tried while traveling?",
+        "difficulty": "medium",
+        "tags": ["food", "culture", "experiences"]
+      },
+      {
+        "id": "t4",
+        "question": "Do you prefer mountains or beaches for vacation?",
+        "difficulty": "easy",
+        "tags": ["preferences", "nature"]
+      },
+      {
+        "id": "t5",
+        "question": "What's the most adventurous thing you've done while traveling?",
+        "difficulty": "medium",
+        "tags": ["adventure", "experiences"]
+      }
+    ]
+  }
