@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Card, CardContent } from './ui/card';
 import { Button } from './ui/button';
+import { ThemeToggle } from './theme-toggle';
 import { Shuffle, Menu, Gauge } from 'lucide-react';
 import { CATEGORIES, DIFFICULTIES, getRandomTopic, getTopicsByDifficulty } from '../constants/topics';
 
@@ -62,9 +63,10 @@ const SmallTalkGenerator = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 p-4 md:p-8">
+    <div className="min-h-screen bg-gray-100 dark:bg-gray-900 p-4 md:p-8">
+      <ThemeToggle />
       <div className="max-w-2xl mx-auto space-y-4 md:space-y-6">
-        <h1 className="text-2xl md:text-3xl font-bold text-center text-gray-800">
+        <h1 className="text-2xl md:text-3xl font-bold text-center text-gray-800 dark:text-gray-100">
           Small Talk Topic Generator
         </h1>
         
@@ -84,9 +86,9 @@ const SmallTalkGenerator = () => {
 
         {/* Categories Section */}
         {showCategories && (
-        <div className="p-4 bg-white rounded-lg shadow-sm">
-            <h2 className="text-lg font-semibold mb-4 text-gray-800 flex items-center justify-center gap-2">
-            <Menu className="w-5 h-5" />
+        <div className="p-4 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
+        <h2 className="text-lg font-semibold mb-4 text-gray-800 dark:text-gray-100 flex items-center justify-center gap-2">
+          <Menu className="w-5 h-5" />
             Categories
             </h2>
             <div className="flex flex-col md:flex-row flex-wrap justify-center gap-2">
@@ -113,9 +115,9 @@ const SmallTalkGenerator = () => {
 
         {/* Difficulty Section */}
         {showDifficulty && (
-        <div className="p-4 bg-white rounded-lg shadow-sm">
-            <h2 className="text-lg font-semibold mb-4 text-gray-800 flex items-center justify-center gap-2">
-            <Gauge className="w-5 h-5" />
+        <div className="p-4 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
+        <h2 className="text-lg font-semibold mb-4 text-gray-800 dark:text-gray-100 flex items-center justify-center gap-2">
+          <Gauge className="w-5 h-5" />
             Difficulty Level
             </h2>
             <div className="flex flex-col md:flex-row flex-wrap justify-center gap-2">
@@ -140,9 +142,9 @@ const SmallTalkGenerator = () => {
         </div>
         )}
 
-        <Card className="shadow-lg">
+        <Card className="shadow-lg dark:bg-gray-800">
         <CardContent className="p-4 md:p-6">
-            <p className="text-lg md:text-xl font-medium text-center text-gray-800 min-h-[3rem] leading-relaxed">
+            <p className="text-lg md:text-xl font-medium text-center text-gray-800 dark:text-gray-100 min-h-[3rem] leading-relaxed">
             {currentTopic}
             </p>
         </CardContent>
