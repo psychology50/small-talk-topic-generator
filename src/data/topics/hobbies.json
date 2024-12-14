@@ -1,0 +1,17 @@
+{
+    "category": "hobbies",
+    "topics": [
+      {
+        "id": "h1",
+        "question": "What do you like to do in your free time?",
+        "difficulty": "easy",
+        "tags": ["leisure", "personal"]
+      },
+      {
+        "id": "h2",
+        "question": "Have you picked up any new hobbies lately?",
+        "difficulty": "easy",
+        "tags": ["leisure", "current"]
+      }
+    ]
+  }
